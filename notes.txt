@@ -1,0 +1,15 @@
+- MyApiProject
+  - Controllers
+    - BookController.cs
+    - CategoryController.cs
+  - Models
+    - Book.cs
+    - Category.cs
+  - Services
+    - BookService.cs
+    - CategoryService.cs
+  - Data
+    - OracleDbContext.cs
+  - Startup.cs
+  - appsettings.json
+  - Program.cs
