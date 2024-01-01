@@ -17,22 +17,22 @@
 1. Pastikan Anda telah menginstal [.NET Core SDK](https://dotnet.microsoft.com/download).
 2. Clone repositori ini:
 
-   ```bash
-   git clone https://github.com/namauser/namarepo.git
+   ```
+   git clone https://github.com/ugunNet21/dotnet_books_api.git
 Pindah ke direktori proyek:
 
-```bash
+```
 cd namarepo
 Jalankan perintah berikut untuk menginstal dependensi:
 
-```bash
+```
 dotnet restore
 Menjalankan Aplikasi
 Pastikan Anda telah mengonfigurasi koneksi database di appsettings.json.
 ```
 Jalankan aplikasi:
 
-```bash
+```
 Aplikasi akan berjalan di http://localhost:5000 atau http://localhost:5001.
 ```
 Struktur Folder
